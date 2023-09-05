@@ -7,6 +7,7 @@ const Shoes =()=>{
         <div>
             <Navbar/>    
             <img src="/shoes-section.avif" alt="shoes" />
+            
         </div>
     )
 }
